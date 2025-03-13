@@ -1,5 +1,7 @@
 # Curso_Pessoal_Progrma-o
 Cronograma de estudo de programaçao desenvolvido por mim para se adaptar as minhas expectativas, necessidades e objetivos, sempre sendo atualizado com a minha realidade atual!
+Muito importante, o meu foco e aprender programação e me destinar a ara de IAs e segurança da computação, entao pode ser que este processo que estou desenvolvendo nao funcione da mesma forma para voce, e importante adapta-lo ou entao seguilo e depois focar na sua area de interesse. 
+OBS: Eu ja começei os estudos sendo assim esse processo sera atualizado ao longo da minha jornada, para maximizar e potencializar os estudos, focado na minha realidade, mas ainda sim com uma visao mais generalizada e abrangente para demais pessoas que se interessem!
 
 
 A ordem de aprendizado das tecnologias que eu menciono pode ser planejada para maximizar seu aprendizado e facilitar a integração entre as linguagens e ferramentas. A chave é aprender de forma gradual, começando com as bases e, em seguida, progredir para tópicos mais complexos, garantindo que cada nova linguagem ou ferramenta complemente o que você já aprendeu. Aqui está uma ordem sugerida para estudar, com base em como cada uma se conecta e complementa a outra:
