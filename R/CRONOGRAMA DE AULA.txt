@@ -1,0 +1,131 @@
+Aqui está um cronograma gradativo para aprender R, com foco em tornar-se um programador capaz de atuar na análise de dados, estatísticas, visualização de dados e inteligência artificial. O cronograma também indica o que você seria capaz de fazer ao final de cada fase e sugere cursos do YouTube que seguem esse formato gradual.
+
+Cronograma para aprender R
+Aula 1 – Introdução ao R e ao Ambiente de Desenvolvimento
+Objetivo: Aprender a instalar o R e o RStudio, entender o ambiente de desenvolvimento, executar comandos básicos.
+
+Conteúdo: Como instalar o R e o RStudio, criar e executar scripts básicos.
+
+O que você será capaz de fazer: Rodar seu primeiro código R, trabalhar com comandos básicos.
+
+Curso no YouTube:
+
+Curso R para Iniciantes - Part 1 - Introdução ao R
+R Programming for Beginners
+Aula 2 – Variáveis, Tipos de Dados e Operadores
+Objetivo: Aprender a criar e manipular variáveis, entender tipos de dados (numéricos, lógicos, etc.) e operadores aritméticos e lógicos.
+
+Conteúdo: Definição e manipulação de variáveis, operadores (+, -, *, /, ==, !=, etc.).
+
+O que você será capaz de fazer: Criar variáveis e realizar operações matemáticas e lógicas básicas.
+
+Curso no YouTube:
+
+R Programming – Variáveis e Tipos de Dados
+Aula 3 – Estruturas Condicionais (if, else, else if)
+Objetivo: Entender como controlar o fluxo do programa com instruções condicionais.
+
+Conteúdo: Uso de if, else, e else if para controlar a execução do código com base em condições.
+
+O que você será capaz de fazer: Escrever códigos que tomam decisões com base em condições.
+
+Curso no YouTube:
+
+Estruturas Condicionais no R
+Aula 4 – Estruturas de Repetição (for, while)
+Objetivo: Aprender a usar loops (for e while) para repetição de blocos de código.
+
+Conteúdo: Como usar for e while para iterar sobre dados ou repetir comandos.
+
+O que você será capaz de fazer: Criar loops para repetição de tarefas.
+
+Curso no YouTube:
+
+R - Laços de Repetição (for, while)
+Aula 5 – Funções em R
+Objetivo: Aprender a criar e utilizar funções em R.
+
+Conteúdo: Definir funções com parâmetros, valores de retorno e escopo de variáveis.
+
+O que você será capaz de fazer: Criar suas próprias funções para tornar o código mais modular e reutilizável.
+
+Curso no YouTube:
+
+Funções no R
+Aula 6 – Manipulação de Vetores e Listas
+Objetivo: Trabalhar com vetores e listas, estruturas de dados importantes em R.
+
+Conteúdo: Como criar, acessar e manipular vetores e listas em R.
+
+O que você será capaz de fazer: Criar e manipular vetores e listas para armazenar e organizar dados.
+
+Curso no YouTube:
+
+Vetores e Listas no R
+Aula 7 – Data Frames e Manipulação de Dados com dplyr
+Objetivo: Trabalhar com data frames, a estrutura de dados mais usada em R.
+
+Conteúdo: Criação e manipulação de data frames, e introdução ao pacote dplyr para manipulação de dados.
+
+O que você será capaz de fazer: Trabalhar com grandes conjuntos de dados, realizar filtros, agrupamentos e ordenações de maneira eficiente.
+
+Curso no YouTube:
+
+Dataframes e dplyr no R
+Aula 8 – Visualização de Dados com ggplot2
+Objetivo: Introdução à visualização de dados com o pacote ggplot2.
+
+Conteúdo: Como criar gráficos (barras, linhas, dispersão, etc.) para representar dados de forma clara e eficaz.
+
+O que você será capaz de fazer: Criar gráficos e visualizações que ajudem a interpretar e comunicar dados.
+
+Curso no YouTube:
+
+Introdução ao ggplot2 no R
+Aula 9 – Leitura e Escrita de Arquivos (CSV, Excel)
+Objetivo: Aprender a importar e exportar dados de/para arquivos externos, como CSV e Excel.
+
+Conteúdo: Como usar funções para ler e escrever dados, incluindo o uso do pacote readr e readxl.
+
+O que você será capaz de fazer: Importar dados de arquivos externos para análise e exportar resultados.
+
+Curso no YouTube:
+
+Leitura e Escrita de Arquivos no R
+Aula 10 – Introdução a Análise Estatística no R
+Objetivo: Entender como realizar análise estatística simples com R.
+
+Conteúdo: Conceitos básicos de estatísticas (média, mediana, desvio padrão, etc.) e como aplicar testes estatísticos.
+
+O que você será capaz de fazer: Realizar análises estatísticas básicas em dados e aplicar testes de hipóteses.
+
+Curso no YouTube:
+
+Análise Estatística no R - Introdução
+Aula 11 – Introdução ao Machine Learning com R
+Objetivo: Compreender os fundamentos de Machine Learning e como implementar modelos no R.
+
+Conteúdo: Introdução ao uso do caret e outros pacotes para construir modelos de aprendizado supervisionado (ex: regressão linear, árvores de decisão).
+
+O que você será capaz de fazer: Implementar modelos de machine learning e realizar previsões com R.
+
+Curso no YouTube:
+
+Introdução ao Machine Learning com R
+Aula 12 – Projetos e Análises Avançadas
+Objetivo: Aplicar tudo o que aprendeu em projetos práticos.
+
+Conteúdo: Trabalhar em projetos reais de análise de dados, estatísticas, e machine learning.
+
+O que você será capaz de fazer: Criar análises de dados completas, implementar modelos de IA e produzir relatórios e visualizações interativas.
+
+Curso no YouTube:
+
+R Projects – Análise e Visualização
+O que você será capaz de fazer ao final de 6 meses (com dedicação):
+Trabalhar com dados reais: Importar, limpar e manipular dados de diferentes fontes (CSV, Excel, APIs).
+Realizar análise estatística: Aplicar testes estatísticos, calcular médias, desvios padrão e realizar inferências.
+Criar visualizações impactantes: Produzir gráficos e dashboards interativos com pacotes como ggplot2.
+Aplicar Machine Learning: Construir e avaliar modelos de aprendizado de máquina para fazer previsões baseadas em dados.
+Criar projetos completos de análise de dados: Desenvolver projetos de ponta a ponta, desde a coleta de dados até a análise e apresentação dos resultados.
+Esses cursos do YouTube te ajudarão a seguir esse cronograma e adquirir as habilidades de R necessárias para se tornar um programador ou analista de dados completo.

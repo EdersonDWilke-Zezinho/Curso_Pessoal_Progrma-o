@@ -1,0 +1,13 @@
+4. Cibersegurança - Do Básico ao Avançado
+Canal: The Cyber Mentor
+Curso de Hacking Ético
+Link: The Cyber Mentor - Ethical Hacking Tutorials
+Conteúdo: Série de vídeos sobre hacking ético e ferramentas de pentest como Nmap, Metasploit, e outros, com explicações detalhadas e demonstrações ao vivo.
+Canal: NetworkChuck
+Curso de Cibersegurança e Hacking Ético
+Link: NetworkChuck - Ethical Hacking
+Conteúdo: Canal focado em hacking ético, segurança de redes e pentest. Vídeos incluem tópicos como Kali Linux, scanners de vulnerabilidades e configuração de firewalls.
+Canal: HackerSploit
+Curso Completo de Cibersegurança
+Link: HackerSploit - Cybersecurity and Hacking Tutorials
+Conteúdo: Canal focado em hacking, segurança de redes e análise forense, com tópicos como técnicas de pen testing, segurança em redes Wi-Fi, ataques DDoS, e mais.

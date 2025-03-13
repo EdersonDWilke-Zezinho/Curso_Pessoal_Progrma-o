@@ -1,0 +1,32 @@
+Aqui estão alguns cursos de C++ no YouTube que seguem uma estrutura semelhante ao cronograma que te passei, indo de fundamentos até conceitos mais avançados:
+
+Cursos de C++ no YouTube
+1. Curso Completo de C++ - Programação
+Canal: Programação Dinâmica
+Link: Curso Completo de C++ - Programação Dinâmica
+Descrição: Este curso é uma excelente introdução ao C++, com tópicos bem estruturados. Começa com os fundamentos e vai até tópicos mais avançados como ponteiros e POO (Programação Orientada a Objetos).
+2. Curso C++ para Iniciantes
+Canal: Programação para Leigos
+Link: Curso C++ para Iniciantes - Programação para Leigos
+Descrição: Um curso ótimo para quem está começando. A sequência das aulas cobre tudo desde a instalação do compilador até os conceitos mais avançados de C++, com explicações claras e exemplos práticos.
+3. C++ Complete Course | Full Tutorial
+Canal: freeCodeCamp.org
+Link: C++ Complete Course | Full Tutorial - freeCodeCamp.org
+Descrição: Um curso completo que aborda a linguagem C++ desde os conceitos básicos até tópicos intermediários. A duração do vídeo é extensa, mas oferece uma cobertura profunda de C++, ideal para quem quer aprender de maneira estruturada.
+4. C++ Programming Tutorial for Beginners
+Canal: ProgrammingKnowledge
+Link: C++ Programming Tutorial for Beginners - ProgrammingKnowledge
+Descrição: Esse curso começa com a instalação e configuração do ambiente e avança para tópicos mais avançados, como manipulação de arquivos, vetores, ponteiros e orientações de objetos.
+5. C++ Crash Course
+Canal: The Cherno
+Link: C++ Crash Course - The Cherno
+Descrição: Este é um curso do The Cherno, que é bem conhecido na comunidade de C++ por oferecer uma introdução rápida, mas eficaz, à linguagem. É ótimo para quem quer aprender C++ de maneira mais acelerada e objetiva.
+6. C++ Programming - Learn C++ for Beginners
+Canal: Tech With Tim
+Link: C++ Programming - Learn C++ for Beginners - Tech With Tim
+Descrição: Uma série de vídeos didáticos que cobre os conceitos de C++ desde o básico, avançando para tópicos intermediários e mais avançados, como manipulação de dados e criação de programas práticos.
+7. C++ Tutorial for Beginners
+Canal: freeCodeCamp.org
+Link: C++ Tutorial for Beginners - freeCodeCamp.org
+Descrição: Este curso cobre os fundamentos do C++, passando por variáveis, operadores, controle de fluxo, funções e outros conceitos importantes de forma gradual.
+Esses cursos estão bem estruturados e seguem uma progressão que vai desde os conceitos iniciais até os mais avançados de C++, assim como no cronograma que te passei. Ao seguir qualquer um desses cursos, você estará bem preparado para criar projetos práticos e entender o funcionamento da linguagem C++.

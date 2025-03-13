@@ -1,0 +1,9 @@
+1. JavaScript - Do Básico ao Avançado
+Canal: The Net Ninja
+Curso JavaScript Completo - Do Básico ao Avançado
+Link: The Net Ninja - JavaScript Tutorial for Beginners
+Conteúdo: A playlist cobre desde os conceitos mais básicos até tópicos mais avançados como Promises, Async/Await, DOM Manipulation e muito mais.
+Canal: Traversy Media
+Curso de JavaScript Completo
+Link: JavaScript Crash Course
+Conteúdo: Curso intensivo de JavaScript, cobrindo conceitos básicos de variáveis, loops e funções, até programação orientada a objetos (POO) e manipulação do DOM.

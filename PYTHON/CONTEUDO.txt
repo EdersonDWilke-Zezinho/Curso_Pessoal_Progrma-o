@@ -1,0 +1,9 @@
+2. Python - Do Básico ao Avançado
+Canal: freeCodeCamp.org
+Curso Python Completo
+Link: Python for Beginners
+Conteúdo: Curso introdutório e avançado, cobrindo desde a instalação e primeiros passos até tópicos mais complexos como manipulação de arquivos, orientado a objetos e bibliotecas populares como NumPy.
+Canal: Corey Schafer
+Python Programming Tutorial (do Básico ao Avançado)
+Link: Corey Schafer - Python Tutorials
+Conteúdo: Corey Schafer oferece tutoriais completos e detalhados, abordando tópicos como sintaxe básica, estruturas de dados, desenvolvimento web com Flask, até conceitos avançados de POO.
