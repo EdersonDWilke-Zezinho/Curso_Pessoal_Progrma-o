@@ -35,6 +35,12 @@ Sintaxe básica, variáveis, operadores, condicionais, loops (estrutura de repet
 Funções e manipulação de dados.
 Manipulação de elementos no DOM (Document Object Model).
 
+
+
+ANTES DE CONTINUAR AS DEMAIS PARTES EU VI UMA NECESSIDADE DE ME APROFUNDAR EM JAVASCRIPT, POIS EU GOSTEI E ELE TEM POSSIBILIDADE DE SER USAADO EM TODAS AS AREAS, MESMO QUE NAO SEJA A OPÇAO MAIS OBVIA OU MAIS VIAVEL! ENTAO VOU ATUALIZAR ESSE CRONOGRAMA PARA MINHAS NECESSIDADES, CONTUDO MINHA META AINDA CONTINUA!!
+
+
+
 //======= 2. Python (Fundamentos =======
 Por que aprender Python em seguida?
 
@@ -105,3 +111,4 @@ Gradualidade: Começamos com o básico e vamos para o mais avançado, sempre bas
 Complementaridade: Linguagens como JavaScript e Node.js se complementam perfeitamente, assim como Python e R no campo de análise de dados e IA.
 Escalabilidade: Você começa com linguagens mais simples e vai avançando para linguagens mais complexas, o que ajuda a construir um entendimento mais profundo de como as tecnologias se conectam.
 Esse cronograma vai te proporcionar um aprendizado contínuo e fluido, além de prepará-lo bem para uma ampla gama de carreiras em tecnologia.
+
