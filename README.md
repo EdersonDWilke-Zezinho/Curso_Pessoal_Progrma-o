@@ -1,6 +1,6 @@
 # Curso_Pessoal_Progrma-o
 Cronograma de estudo de programaçao desenvolvido por mim para se adaptar as minhas expectativas, necessidades e objetivos, sempre sendo atualizado com a minha realidade atual!
-Muito importante, o meu foco e aprender programação e me destinar a ara de IAs e segurança da computação, entao pode ser que este processo que estou desenvolvendo nao funcione da mesma forma para voce, e importante adapta-lo ou entao seguilo e depois focar na sua area de interesse. 
+Muito importante, o meu foco é aprender programação e ter um vertente na ara de IAs e segurança da computação, entao pode ser que este processo que estou desenvolvendo nao funcione da mesma forma para voce, e importante adapta-lo ou entao seguilo e depois focar na sua area de interesse. 
 OBS: Eu ja começei os estudos sendo assim esse processo sera atualizado ao longo da minha jornada, para maximizar e potencializar os estudos, focado na minha realidade, mas ainda sim com uma visao mais generalizada e abrangente para demais pessoas que se interessem!
 
 
@@ -23,6 +23,7 @@ O que aprender primeiro em Lógica de Programação:
 - Fundamentos de estruturas de dados (como arrays e objetos) e sua manipulação.
 
 Dominar a lógica de programação antes de mergulhar em uma linguagem específica garante que você construa uma base sólida, essencial para o sucesso em qualquer área do desenvolvimento.
+Tenho uma pasta destinada a conteudo e dicas dentro desse repositorio, sinta-se a vontade para conhecer!
 
 //======= 1. JavaScript (Fundamentos) =======
 Por que começar aqui?
@@ -35,13 +36,44 @@ Sintaxe básica, variáveis, operadores, condicionais, loops (estrutura de repet
 Funções e manipulação de dados.
 Manipulação de elementos no DOM (Document Object Model).
 
+        //========= 1.1 HTML5 & CSS3 ===============
+
+        Anteriormente nao tinha cido inserido esse conteudo, nesse momento vejo a necessidade e obrigaçao de inseri-lo pois javascript e uma linguagem web que necessita de uma segunda linguagem como base, entao vou estar incluindo e orientando tambem esse conteudo. 
+        
+        //======= 1.2 Node.js (Fundamentos) =======
+        Por que aprender Node.js agora?
+
+        Após aprender JavaScript, Node.js é a próxima etapa lógica, pois permite usar JavaScript no back-end.
+        Isso vai ajudar a consolidar o que você aprendeu no JavaScript e expandir para servidores e APIs.
+        Também te permitirá desenvolver aplicações full-stack (front-end + back-end) com uma única linguagem.
+        O que aprender aqui:
+
+        Como configurar um servidor básico com Express.
+        Entender como funciona o modelo de event-loop e como gerenciar as requisições HTTP.
+        Criar APIs RESTful e consumir APIs externas.
+
+        //======= 1.3. TypeScript =======
+        Por que aprender TypeScript agora?
+
+        Agora que você tem uma boa compreensão de JavaScript e Node.js, aprender TypeScript vai ser uma progressão natural.
+        TypeScript é um superconjunto de JavaScript que adiciona tipagem estática e outras funcionalidades que melhoram a manutenção e escalabilidade do código.
+        A maioria dos projetos de larga escala no mundo real usa TypeScript, especialmente quando você começa a trabalhar com frameworks como Angular ou React.
+        O que aprender aqui:
+
+        Tipagem estática, tipos básicos (string, number, boolean).
+        Interfaces, classes e módulos.
+        Como configurar projetos com tsconfig e como compilar TypeScript para JavaScript.
+
+        //========= 1.4 ELECTRON ===============
+        Electron é um framework que te permite criar aplicações desktop com JavaScript, HTML e CSS. Ao embutir o Chromium e o NodeJS. por si só a descriçao dele ja diz o porque aprender, ele possibilita o JAVASCRIPT, HTML E CSS se tornar independente fora do navegador e ser mais integardo ao desktop, tornando possivel a criaçao de aplicaçoes. 
+
 
 
 ANTES DE CONTINUAR AS DEMAIS PARTES EU VI UMA NECESSIDADE DE ME APROFUNDAR EM JAVASCRIPT, POIS EU GOSTEI E ELE TEM POSSIBILIDADE DE SER USAADO EM TODAS AS AREAS, MESMO QUE NAO SEJA A OPÇAO MAIS OBVIA OU MAIS VIAVEL! ENTAO VOU ATUALIZAR ESSE CRONOGRAMA PARA MINHAS NECESSIDADES, CONTUDO MINHA META AINDA CONTINUA!!
 
 
 
-//======= 2. Python (Fundamentos =======
+//======= 2. Python Fundamentos =======
 Por que aprender Python em seguida?
 
 Python é muito simples de aprender e tem uma sintaxe intuitiva, o que torna o aprendizado mais rápido.
@@ -52,31 +84,7 @@ Sintaxe básica e controle de fluxo (if, for, while).
 Funções, listas, dicionários, e estruturas de dados.
 Bibliotecas fundamentais como NumPy, Pandas (para análise de dados) ou Matplotlib (para visualização).
 
-//======= 3. Node.js (Fundamentos) =======
-Por que aprender Node.js agora?
-
-Após aprender JavaScript, Node.js é a próxima etapa lógica, pois permite usar JavaScript no back-end.
-Isso vai ajudar a consolidar o que você aprendeu no JavaScript e expandir para servidores e APIs.
-Também te permitirá desenvolver aplicações full-stack (front-end + back-end) com uma única linguagem.
-O que aprender aqui:
-
-Como configurar um servidor básico com Express.
-Entender como funciona o modelo de event-loop e como gerenciar as requisições HTTP.
-Criar APIs RESTful e consumir APIs externas.
-
-//======= 4. TypeScript =======
-Por que aprender TypeScript agora?
-
-Agora que você tem uma boa compreensão de JavaScript e Node.js, aprender TypeScript vai ser uma progressão natural.
-TypeScript é um superconjunto de JavaScript que adiciona tipagem estática e outras funcionalidades que melhoram a manutenção e escalabilidade do código.
-A maioria dos projetos de larga escala no mundo real usa TypeScript, especialmente quando você começa a trabalhar com frameworks como Angular ou React.
-O que aprender aqui:
-
-Tipagem estática, tipos básicos (string, number, boolean).
-Interfaces, classes e módulos.
-Como configurar projetos com tsconfig e como compilar TypeScript para JavaScript.
-
-//======= 5. C++
+//======= 3. C++
 Por que aprender C++ agora? =======
 
 C++ é uma linguagem mais complexa que será útil quando você quiser se aprofundar em baixo nível, como cibersegurança, desenvolvimento de sistemas, e inteligência artificial (IA), especialmente quando trabalhar com Redes Neurais Profundas (Deep Learning).
@@ -87,7 +95,7 @@ Sintaxe básica, ponteiros, controle de fluxo.
 Classes, objetos, e programação orientada a objetos (OOP).
 Manipulação de memória e alocação dinâmica.
 
-//======= 6. R (para IA e Análise de Dados) =======
+//======= 4. R (para IA e Análise de Dados) =======
 Por que aprender R agora?
 
 R é uma linguagem focada em estatísticas e análise de dados, e, após aprender Python, você já terá uma base sólida de programação que te permitirá aprender R mais facilmente.
