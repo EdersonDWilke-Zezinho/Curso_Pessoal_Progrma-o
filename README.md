@@ -119,4 +119,4 @@ Gradualidade: Começamos com o básico e vamos para o mais avançado, sempre bas
 Complementaridade: Linguagens como JavaScript e Node.js se complementam perfeitamente, assim como Python e R no campo de análise de dados e IA.
 Escalabilidade: Você começa com linguagens mais simples e vai avançando para linguagens mais complexas, o que ajuda a construir um entendimento mais profundo de como as tecnologias se conectam.
 Esse cronograma vai te proporcionar um aprendizado contínuo e fluido, além de prepará-lo bem para uma ampla gama de carreiras em tecnologia.
-
+Vai dar certo!
