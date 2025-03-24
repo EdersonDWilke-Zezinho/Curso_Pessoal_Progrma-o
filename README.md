@@ -1,6 +1,6 @@
 # Curso_Pessoal_Progrma-o
 Cronograma de estudo de programaçao desenvolvido por mim para se adaptar as minhas expectativas, necessidades e objetivos, sempre sendo atualizado com a minha realidade atual!
-Muito importante, o meu foco é aprender programação e ter um vertente na ara de IAs e segurança da computação, entao pode ser que este processo que estou desenvolvendo nao funcione da mesma forma para voce, e importante adapta-lo ou entao seguilo e depois focar na sua area de interesse. 
+Muito importante, o meu foco é aprender programação e ter um vertente na ara de IAs e segurança da computação, entre tanto, tem que ser um passo de cada vez, sendo assim vou me dedicar a Front-End primeiramente e depois ir evoluindo.Entao pode ser que este processo que estou desenvolvendo nao funcione da mesma forma para voce, e importante adapta-lo ou entao seguilo e depois focar na sua area de interesse. 
 OBS: Eu ja começei os estudos sendo assim esse processo sera atualizado ao longo da minha jornada, para maximizar e potencializar os estudos, focado na minha realidade, mas ainda sim com uma visao mais generalizada e abrangente para demais pessoas que se interessem!
 
 
@@ -40,6 +40,23 @@ Manipulação de elementos no DOM (Document Object Model).
 
         Anteriormente nao tinha cido inserido esse conteudo, nesse momento vejo a necessidade e obrigaçao de inseri-lo pois javascript e uma linguagem web que necessita de uma segunda linguagem como base, entao vou estar incluindo e orientando tambem esse conteudo. 
         
+        //========= USER EXPERIENCE(UX) =========
+         ainda vou desenvolver conteudo...
+        //========= TAILWIND CSS =========
+        ainda vou desenvolver conteudo...
+        //========= BOOTSTRAP =========
+        ainda vou desenvolver conteudo...
+        //========= MATERIAL UI ========
+        ainda vou desenvolver conteudo...
+        //========= STYLED COMPONENTS =========
+        ainda vou desenvolver conteudo...
+        //========= REACT NATIVE =========
+        ainda vou desenvolver conteudo...
+        //========= REACT.JS =========
+        ainda vou desenvolver conteudo...
+
+ANTES DE CONTINUAR AS DEMAIS PARTES EU VI UMA NECESSIDADE DE ME APROFUNDAR EM JAVASCRIPT, POIS EU GOSTEI E ELE TEM POSSIBILIDADE DE SER USAADO EM TODAS AS AREAS, MESMO QUE NAO SEJA A OPÇAO MAIS OBVIA OU MAIS VIAVEL! ENTAO VOU ATUALIZAR ESSE CRONOGRAMA PARA MINHAS NECESSIDADES, CONTUDO MINHA META AINDA CONTINUA!!
+
         //======= 1.2 Node.js (Fundamentos) =======
         Por que aprender Node.js agora?
 
@@ -66,11 +83,6 @@ Manipulação de elementos no DOM (Document Object Model).
 
         //========= 1.4 ELECTRON ===============
         Electron é um framework que te permite criar aplicações desktop com JavaScript, HTML e CSS. Ao embutir o Chromium e o NodeJS. por si só a descriçao dele ja diz o porque aprender, ele possibilita o JAVASCRIPT, HTML E CSS se tornar independente fora do navegador e ser mais integardo ao desktop, tornando possivel a criaçao de aplicaçoes. 
-
-
-
-ANTES DE CONTINUAR AS DEMAIS PARTES EU VI UMA NECESSIDADE DE ME APROFUNDAR EM JAVASCRIPT, POIS EU GOSTEI E ELE TEM POSSIBILIDADE DE SER USAADO EM TODAS AS AREAS, MESMO QUE NAO SEJA A OPÇAO MAIS OBVIA OU MAIS VIAVEL! ENTAO VOU ATUALIZAR ESSE CRONOGRAMA PARA MINHAS NECESSIDADES, CONTUDO MINHA META AINDA CONTINUA!!
-
 
 
 //======= 2. Python Fundamentos =======
